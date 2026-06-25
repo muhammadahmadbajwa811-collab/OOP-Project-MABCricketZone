@@ -1,0 +1,32 @@
+╔══════════════════════════════════════════════════════════╗
+║              MAB CRICKET ZONE - OFFICIAL RECEIPT         ║
+╚══════════════════════════════════════════════════════════╝
+
+  Order ID      : #5
+  Order Date    : 25 Jun 2026, 01:11 PM
+  Status        : Confirmed
+
+──────────────── CUSTOMER DETAILS ────────────────────────
+  Name          : Ahmad
+  Phone         : 03126106663
+  City          : Lahore
+  Address       : DHA Phase 6
+  Payment       : Cash on Delivery (COD)
+
+──────────────── ORDER ITEMS ──────────────────────────────
+  Item                             Qty   Unit Price     Subtotal
+  ────                             ───   ──────────      ───────
+  DSC Batting Pads Senior            1 Rs.    6,800 Rs.   6,800
+  Shrey Batting Helmet               1 Rs.    9,500 Rs.   9,500
+  Shrey Cricket Kit Bag              1 Rs.    7,500 Rs.   7,500
+
+──────────────────────────────────────────────────────────
+  TOTAL AMOUNT:                            Rs. 23,800
+──────────────────────────────────────────────────────────
+
+  Thank you for shopping at MAB Cricket Zone!
+  Gear up. Play hard. Win big.
+
+  Contact: mabcricketzone@gmail.com | 0300-1234567
+  Address: Main Market, Gulberg, Lahore, Pakistan
+╚══════════════════════════════════════════════════════════╝

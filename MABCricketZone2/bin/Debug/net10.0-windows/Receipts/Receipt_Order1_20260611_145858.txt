@@ -1,0 +1,32 @@
+╔══════════════════════════════════════════════════════════╗
+║              MAB CRICKET ZONE - OFFICIAL RECEIPT         ║
+╚══════════════════════════════════════════════════════════╝
+
+  Order ID      : #1
+  Order Date    : 11 Jun 2026, 02:58 PM
+  Status        : Confirmed
+
+──────────────── CUSTOMER DETAILS ────────────────────────
+  Name          : Muhammad
+  Phone         : 03126106663
+  City          : Lahore
+  Address       : Bahria Town
+  Payment       : Cash on Delivery (COD)
+
+──────────────── ORDER ITEMS ──────────────────────────────
+  Item                             Qty   Unit Price     Subtotal
+  ────                             ───   ──────────      ───────
+  Shrey Cricket Kit Bag              1 Rs.    7,500 Rs.   7,500
+  SG Cricket Stumps (Full Set)       1 Rs.    3,500 Rs.   3,500
+  Kookaburra Leather Cricket B       1 Rs.    3,200 Rs.   3,200
+
+──────────────────────────────────────────────────────────
+  TOTAL AMOUNT:                            Rs. 14,200
+──────────────────────────────────────────────────────────
+
+  Thank you for shopping at MAB Cricket Zone!
+  Gear up. Play hard. Win big.
+
+  Contact: mabcricketzone@gmail.com | 0300-1234567
+  Address: Main Market, Gulberg, Lahore, Pakistan
+╚══════════════════════════════════════════════════════════╝
