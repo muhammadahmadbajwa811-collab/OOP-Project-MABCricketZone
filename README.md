@@ -306,7 +306,7 @@ https://github.com/muhammadahmadbajwa811-collab
 
 LinkedIn
 
-(Add your LinkedIn URL)
+www.linkedin.com/in/muhammad-ahmad-bajwa-b7594b381
 
 ---
 
